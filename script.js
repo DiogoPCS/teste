@@ -7,4 +7,4 @@ function mensagemBoasVindas(nome) {
 }
 
 
-export default { somar, mensagemBoasVindas };
+module.exports = { somar, mensagemBoasVindas };
