@@ -6,4 +6,5 @@ function mensagemBoasVindas(nome) {
   return `Olá, ${nome}!`;
 }
 
+
 module.exports = { somar, mensagemBoasVindas };
