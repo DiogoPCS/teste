@@ -3,7 +3,7 @@ function somar(a, b) {
 }
 
 function mensagemBoasVindas(nome) {
-  return `Olá exemplo de teste, ${nome}!`;
+  return `Olá, ${nome}!`;
 }
 
 
